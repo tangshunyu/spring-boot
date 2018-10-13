@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+
+
+person:
+  age: 18
+  boss: false
+  maps: {k1: v1,k2: v2}
+  list:
+    - cat
+    - dog
+  dog:
+    name: xiao gou
+    age: 2
+  name: tom
